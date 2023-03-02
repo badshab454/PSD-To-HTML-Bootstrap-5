@@ -27,7 +27,20 @@ body {
   font-size: 2rem;
   font-weight: 700;
 }
+.nav-item {
+  padding: 0 0.7rem;
+}
 .nav-item a {
+  font-weight: 600;
+}
+.btn-primary {
+  background-color: var(--primary);
+  color: var(--white);
   font-weight: 500;
+  border: none;
+}
+
+.btn:hover {
+  background-color: var(--black);
 }
 /* navbar end */

@@ -85,4 +85,8 @@ section#home {
   background-size: cover;
 }
 
+.hiro {
+  color: var(--white);
+}
+
 /* Home End */

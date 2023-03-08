@@ -78,7 +78,11 @@ body {
 
 /* navbar end */
 
+/* Home */
+
 section#home {
   background: var(--gradient), url(../img/background-1.jpg) fixed;
   background-size: cover;
 }
+
+/* Home End */

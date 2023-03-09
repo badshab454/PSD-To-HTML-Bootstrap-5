@@ -118,3 +118,11 @@ section#home {
 }
 
 /* Home End */
+
+/* card */
+.section-title h2 {
+  font-weight: 400;
+  color: var(--black);
+  margin-top: 7rem;
+}
+/* card end */

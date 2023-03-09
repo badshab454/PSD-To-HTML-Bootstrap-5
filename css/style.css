@@ -124,5 +124,19 @@ section#home {
   font-weight: 400;
   color: var(--black);
   margin-top: 7rem;
+  position: relative;
+  padding-bottom: 3rem;
 }
+
+.section-title h2::before {
+  content: "";
+  position: absolute;
+  left: 50%;
+  bottom: -1px;
+  width: 6rem;
+  height: 5px;
+  background-color: var(--primary);
+  transform: translateX(-50%);
+}
+
 /* card end */

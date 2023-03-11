@@ -167,3 +167,29 @@ section#home {
 }
 
 /* card end */
+
+/* company info */
+
+#company-info {
+  background-color: var(--light);
+  margin: 7rem 0;
+}
+
+.company-info-col-1 {
+  background: url("../img/col-img-1.jpg");
+  background-size: cover;
+  background-position: center;
+  height: auto;
+}
+
+.company-info-col-2 {
+  padding: 8rem 3.5rem;
+  padding-right: 8rem;
+}
+
+.company-info-col-2 h2 {
+  font-weight: 400;
+  margin-bottom: 2rem;
+}
+
+/* company info end */

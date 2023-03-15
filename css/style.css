@@ -193,3 +193,19 @@ section#home {
 }
 
 /* company info end */
+
+/* app presentation */
+.app-presentation-content {
+  margin-right: 3rem;
+}
+.app-presentation-content h2 {
+  margin: 2rem 0;
+  font-weight: 400;
+}
+
+.app-presentation-content p {
+  font-size: 0.9rem;
+  line-height: 2rem;
+  margin-bottom: 2rem;
+}
+/* app presentation end */

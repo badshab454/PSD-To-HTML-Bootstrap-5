@@ -209,3 +209,31 @@ section#home {
   margin-bottom: 2rem;
 }
 /* app presentation end */
+
+/* love section */
+#love-section {
+  margin-top: 7rem;
+}
+.feature-card {
+  padding: 1rem 3rem;
+  box-shadow: 1px 4px 8px #0000007c;
+  margin-bottom: 2rem;
+}
+.feature-card h4 {
+  font-weight: 400;
+}
+.feature-card i {
+  font-size: 1.5rem;
+}
+.feature-card .icon {
+  margin-right: 1rem;
+}
+.feature-card p {
+  font-size: 0.7rem;
+}
+.active-card {
+  background-color: var(--primary);
+  box-shadow: 1px 4px 8px #00a8a8;
+}
+
+/* love section end */
